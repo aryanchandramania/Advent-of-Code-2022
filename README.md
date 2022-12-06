@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/-CPP-blue?style=plastic)
 ![](https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python)
-![GitHub](https://img.shields.io/github/license/aryanchandramania/Advent-of-Code-2022?color=green&style=plastic)
+![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
 
 # Advent-of-Code-2022
 My solutions to Advent of Code 2022. Tried to do 5 days with a language.
