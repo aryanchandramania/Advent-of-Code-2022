@@ -1,3 +1,5 @@
+"""The one with the n distinct characters"""
+
 def solve(n):
     for i in range(0,len(signal)):
         packet = signal[i:i+n]

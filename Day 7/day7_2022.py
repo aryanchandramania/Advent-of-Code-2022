@@ -1,3 +1,4 @@
+"""The one with the tree structure"""
 import collections
 
 directory_tree = collections.defaultdict(int)
