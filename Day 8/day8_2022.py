@@ -1,3 +1,5 @@
+"""The one with the visible trees"""
+
 tree = open("input.txt").read().splitlines()
 ROWS, COLS = len(tree), len(tree[0])
 part1, part2 = 0, 0
