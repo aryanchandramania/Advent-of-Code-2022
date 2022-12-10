@@ -7,4 +7,4 @@
 # Advent-of-Code-2022
 My solutions to Advent of Code 2022. Tried to do 5 days with a language.
 
-Days 1-5 in C++, Day 6 in Python so far.
+Days 1-5 in C++, Days 6-10 completed in Python.
